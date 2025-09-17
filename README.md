@@ -35,7 +35,7 @@ Il est idéal pour automatiser la maintenance de PowerShell sur Mac via un termi
 ### Cloner le dépôt (après création sur GitHub)
 
 ```
-git clone https://github.com/votre-username/Update-PWSH-macOS-CLI.git
+git clone https://github.com/valorisa/Update-PWSH-macOS-CLI.git
 cd Update-PWSH-macOS-CLI
 ```
 
@@ -96,4 +96,3 @@ Ce projet est sous licence MIT.
 ---
 
 N’hésitez pas à contribuer ou demander des améliorations !
-```
