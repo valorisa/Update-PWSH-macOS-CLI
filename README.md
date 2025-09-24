@@ -21,7 +21,7 @@ Il est idéal pour automatiser la maintenance de PowerShell sur Mac via un termi
 
 ## Prérequis
 
-- macOS 13 (Sequoia) ou supérieur.
+- macOS 15 (Sequoia) ou supérieur.
 - Bash (version 4 ou 5 recommandée).
 - Accès `sudo`.
 - Connexion Internet active.
