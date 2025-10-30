@@ -34,21 +34,21 @@ Il est idéal pour automatiser la maintenance de PowerShell sur Mac via un termi
 
 ### Cloner le dépôt (après création sur GitHub)
 
-```
+```bash
 git clone https://github.com/valorisa/Update-PWSH-macOS-CLI.git
 cd Update-PWSH-macOS-CLI
 ```
 
 ### Rendre le script exécutable et lancer la mise à jour
 
-```
+```bash
 chmod +x update_powershell_latest.sh
 bash ./update_powershell_latest.sh
 ```
 
 ### Utilisation optionnelle: sourcing pour récupérer la variable
 
-```
+```bash
 bash
 source ./update_powershell_latest.sh
 echo $LATEST_TAG
@@ -60,7 +60,7 @@ echo $LATEST_TAG
 
 Voici les commandes complètes pour initialiser localement, créer et pousser un nouveau repo GitHub avec une description :
 
-```
+```bash
 # Initialiser un dépôt git local
 mkdir Update-PWSH-macOS-CLI
 cd Update-PWSH-macOS-CLI
